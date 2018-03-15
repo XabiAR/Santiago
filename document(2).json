@@ -1,0 +1,22 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -31,4394746,
+          "lon": -60,9313945
+        }
+      },
+      "icon": {
+        "url": "https://media.giphy.com/media/P5AGXvRzq1MWY/source.gif"
+      },
+      "id": 1,
+      "text": {
+        "title": "test"
+      }
+    }
+  ],
+  "layer": "loli5w9"
+}
